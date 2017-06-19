@@ -1,6 +1,6 @@
 Apellidos,Nombres,Categoría,Rango,Grado Académico,Adscripción,Horas,Asignaturas
 Basáez Villagrán,Christian Andrés,Categoría Académica Adjunta,Instructor Adjunto,Licenciado,Escuela de Pregrado Unificada,12hrs,"Gráfica Computacional II,Modelamiento I,Modelamiento II"
-Calvo Ivanovic,Ingrid Estefanía Del Pilar,Carrera Académica Ordinaria,Profesor Asistente,Licenciado,Departamento de Diseño,22hrs,"Color Aplicado,Seminario de Diseño Gráfico I,Investigación Base Memoria,Proyecto de Título"
+Calvo Ivanovic,Ingrid Estefanía Del Pilar,Carrera Académica Ordinaria,Profesor Asistente,Magíster,Departamento de Diseño,22hrs,"Color Aplicado,Seminario de Diseño Gráfico I,Investigación Base Memoria,Proyecto de Título"
 Castillo Espinoza,Eduardo Esteban,Carrera Académica Ordinaria,Profesor Asociado,Doctor,Departamento de Diseño,44hrs,"Seminario de Diseño Gráfico I,Investigación Base Memoria,Proyecto de Título"
 Cattan Lavín,Magdalena,Carrera Académica Ordinaria,Instructor,Magíster,Departamento de Diseño,44hrs,Sin Información
 Cortés Lopez,Claudio Ivan,Carrera Académica Docente,Profesor Asistente de Docencia,Magíster,Departamento de Diseño,22hrs,"Semiótica de la Imagen II,Investigación Base Memoria,Proyecto de Título"
@@ -9,7 +9,7 @@ De La Sotta Lazzerini,Paola Margot,Carrera Académica Ordinaria,Profesor Asisten
 Diaz Gronow,Rodrigo Ignacio,Carrera Académica Ordinaria,Profesor Asistente,Licenciado,Departamento de Diseño,44hrs,"Taller de Diseño Industrial III,Taller de Diseño Industrial IV,Práctica Profesional II,Investigación Base Memoria,Proyecto de Título"
 Dominguez González,Pablo,Carrera Académica Docente,Profesor Asistente de Docencia,Magíster,Departamento de Diseño,22hrs,"Taller de Diseño Industrial III,Taller de Diseño Industrial IV,Investigación Base Memoria,Proyecto de Título"
 Donoso Cisternas,Sergio Felipe,Carrera Académica Ordinaria,Profesor Asistente,Doctor,Departamento de Diseño,44hrs,"Seminario de Diseño Industrial I,Investigación Base Memoria,Proyecto de Título"
-Dueñas Santander,Rodrigo,Carrera Académica Docente,Profesor Asistente de Docencia,Licenciado,Departamento de Diseño,22hrs,"Taller de Diseño Gráfico II,Investigación Base Memoria,Proyecto de Título"
+Dueñas Santander,Rodrigo,Carrera Académica Docente,Profesor Asistente de Docencia,Magíster,Departamento de Diseño,22hrs,"Taller de Diseño Gráfico II,Investigación Base Memoria,Proyecto de Título"
 Estrada Martínez,René Alejandro,Carrera Académica Docente,Profesor Asociado de Docencia,Magíster,Departamento de Diseño,12hrs,Práctica Profesional I
 Gomez Moya,Cristian Manuel,Carrera Académica Ordinaria,Profesor Asistente,Doctor,Departamento de Diseño,22hrs,"Seminario de Diseño Gráfico I,Investigación Base Memoria,Proyecto de Título"
 Gómez Venegas,Diego Ignacio,Carrera Académica Ordinaria,Profesor Asistente,Magíster,Departamento de Diseño,44hrs,"Taller de Diseño Gráfico II,Proyecto de Título"
@@ -31,7 +31,7 @@ Oyarzún Roa,Christian Edgardo,Carrera Académica Ordinaria,Profesor Asistente,L
 Pagueguy Fenner,Bernardo Sebastián,Carrera Académica Docente,Profesor Asistente de Docencia,Magíster,Departamento de Diseño,22hrs,"Multimedia I,Multimedia II,Taller de Diseño Gráfico VI,Taller de Diseño Gráfico V,Investigación Base Memoria"
 Palacios Ayala,Catherinne Antonia,Carrera Académica Ordinaria,Ayudante,Licenciado,Departamento de Diseño,12hrs,"Taller de Diseño I,Percepción"
 Perea Morales,René,Carrera Académica Docente,Profesor Asistente de Docencia,Licenciado,Departamento de Diseño,22hrs,"Taller de Diseño Industrial II,Biónica"
-Perelli Soto,Bruno Leonardo,Carrera Académica Ordinaria,Instructor,Licenciado,Departamento de Diseño,44hrs,"Gráfica Computacional,Gráfica Computacional II,Seminario de Diseño Computacional I,Seminario de Diseño Computacional II,Tecnología Gráfica I"
+Perelli Soto,Bruno Leonardo,Carrera Académica Ordinaria,Instructor,Magíster,Departamento de Diseño,44hrs,"Gráfica Computacional,Gráfica Computacional II,Seminario de Diseño Computacional I,Seminario de Diseño Computacional II,Tecnología Gráfica I"
 Quezada Moncada,Marcelo Rene,Carrera Académica Docente,Profesor Asociado de Docencia,Licenciado,Departamento de Diseño,44hrs,"Taller de Diseño I,Investigación Base Memoria,Proyecto de Título"
 Reyes Leon,Daniel Antonio,Categoría Académica Adjunta,Profesor Adjunto,Licenciado,Escuela de Pregrado Unificada,18hrs,"Seminario Producción Audiovisual I,Seminario Producción Audiovisual II,Proyecto de Título"
 Rivera Scott,Hugo,Carrera Académica Docente,Profesor Asistente de Docencia,Licenciado,Departamento de Diseño,22hrs,"Percepción,Percepción Visual"
@@ -39,7 +39,7 @@ Rossi Rossi,Bruno,Categoría Académica Adjunta,Instructor Adjunto,Licenciado,Es
 Soto Calquín,Leonardo Esteban,Carrera Académica Docente,Profesor Asistente de Docencia,Licenciado,Departamento de Diseño,22hrs,"Expresión Gráfica,Expresión Gráfica II,Práctica Profesional II,Investigación Base Memoria"
 Stange Marcus,Hans Eduardo,Carrera Académica Ordinaria,Profesor Asistente,Licenciado,Escuela de Pregrado Unificada,12hrs,"Metodología de la Investigación,Investigación Base Memoria"
 Tapia Reyes,Mauricio,Carrera Académica Docente,Profesor Asistente de Docencia,Licenciado,Departamento de Diseño,44hrs,"Tecnología Industrial y Materiales II,Taller de Diseño Industrial VI,Taller de Diseño Industrial V,Investigación Base Memoria,Proyecto de Título"
-Velasco Bruhn,Constanza Javiera,Categoría Académica Adjunta,Instructor Adjunto,Licenciado,Escuela de Pregrado Unificada,12hrs,"Gráfica Computacional I,Gráfica Computacional II"
+Velasco Bruhn,Constanza Javiera,Categoría Académica Adjunta,Instructor Adjunto,Magíster,Escuela de Pregrado Unificada,12hrs,"Gráfica Computacional I,Gráfica Computacional II"
 Vera Manríquez,Rodrigo Andrés,Carrera Académica Ordinaria,Profesor Asistente,Licenciado,Departamento de Diseño,22hrs,"Historia y Teoría del Diseño,Historia y Teoría del Diseño Gráfico,Investigación Base Memoria,Proyecto de Título"
 Vico Sánchez,Mauricio Esteban,Carrera Académica Ordinaria,Profesor Asociado,Licenciado,Departamento de Diseño,44hrs,"Taller de Diseño I, Investigación Base Memoria"
 Wechsler Pizarro,Andrea,Carrera Académica Ordinaria,Profesor Asistente,Doctor,Departamento de Diseño,44hrs,"Seminario de Procesos de Producción y Materiales Industriales I,Seminario de Procesos de Producción y Materiales Industriales I,Investigación Base Memoria"
